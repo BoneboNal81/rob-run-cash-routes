@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="rob-run-cash-routes" width="840" />
-
 # Rob Run Money Farm — ROB RUN Money Farm — Heist Route Planner and Earnings Tracker (One-Command Setup, Prebuilt Release)
 
 <p><strong>Rob Run Money Farm — ROB RUN Money Farm — Heist Route Planner and Earnings Tracker (One-Command Setup, Prebuilt Release): Plan heists, track cash, repeat. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
